@@ -1,8 +1,8 @@
 # Experiment 1: Image Handling and Pixel Transformations Using OpenCV
 
-**Name:** MANASA S
-**Register Number:** 212224220059
-**Experiment:** Image Handling and Pixel Transformations Using OpenCV
+## **Name:** MANASA S
+## **Register Number:** 212224220059
+## **Experiment:** Image Handling and Pixel Transformations Using OpenCV
 
 ---
 
